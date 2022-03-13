@@ -224,7 +224,8 @@ body {
 
     .participantScroll {
         width : 40px;
-        height: -webkit-fill-available;
+        height: 100px;
+        /*  participantVideoContainer height */
     }
 
     .participantScroll>span {
